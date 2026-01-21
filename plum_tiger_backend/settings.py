@@ -55,7 +55,8 @@ ALLOWED_HOSTS = [
     '127.0.0.1', 
     'localhost', 
     '192.168.0.106',
-    '10.123.165.146'
+    '10.123.165.146',
+    ".onrender.com"
 ]
 
 # Templates
